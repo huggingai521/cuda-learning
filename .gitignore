@@ -1,0 +1,6 @@
+*.nsys-rep
+*.ncu-rep
+*.qdrep
+*.o
+*.out
+build/
