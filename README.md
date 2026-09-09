@@ -20,7 +20,7 @@
 ## 进度
 
 - [x] W1 环境搭建
-- [ ] W1 ComfyUI baseline profiling
+- [x] W1 ComfyUI baseline profiling
 - [ ] W2-3 C 子集
 - [ ] W4 第一个 kernel
 - [ ] W5 内存层级
